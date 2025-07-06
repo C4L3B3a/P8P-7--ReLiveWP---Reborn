@@ -26,7 +26,7 @@ You may **not distribute, reuse, or modify** these changes without explicit writ
 
 # For Developers
 
-**Main Coding Language(s):** C#, Python  
+**Main Coding Language(s):** C#, Python, HTML
 **Visual Studio Version(s):**  
 - Visual Studio 2022 (Community)  
 - Visual Studio 2013 (Professional)  
