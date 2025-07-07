@@ -35,3 +35,9 @@ You may **not distribute, reuse, or modify** these changes without explicit writ
 **Discord Server (only official link):** [https://discord.gg/42gv2QBhQv](https://discord.gg/42gv2QBhQv)
 
 > **Do not share developer code or builds provided to you. Do not distribute them under any circumstances.**
+
+# Extra information
+
+**Unicord Legacy** is used as an example on the Server Side part of the Marketplace for this project. The original GitHub page for **Unicord/Unicord Legacy** can be found [here.](https://github.com/UnicordDev/Unicord)
+
+> We don't plan to use Unicord for anything in the project, just as an example for the marketplace.
