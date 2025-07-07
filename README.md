@@ -1,6 +1,6 @@
 # P8P 7: ReLiveWP - Reborn
 
-ReLiveWP that is actually useful for your Lumia/WP 7 device.
+An ReLiveWP fork that is actually useful for your Lumia/WP 7 device.
 
 This is a fork of WamWooWam's original project: "ReLiveWP", made to relive WP7/WP8's original Live ID/Microsoft services, but the current state of that project is discontinued.
 
