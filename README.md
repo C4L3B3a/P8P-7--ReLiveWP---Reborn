@@ -42,6 +42,6 @@ You may **not distribute, reuse, or modify** these changes without explicit writ
 ## Extra Information
 
 **Unicord Legacy** is used only as an example for the server-side portion of the Marketplace in this project.  
-The original GitHub page for **Unicord / Unicord Legacy** can be found [here](https://github.com/UnicordDev/Unicord).
+The original GitHub page for **Unicord / Unicord Legacy** can be found [here.](https://github.com/UnicordDev/Unicord)
 
 > We do not plan to use Unicord directly in the project — it serves only as a reference example.
