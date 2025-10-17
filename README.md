@@ -1,5 +1,9 @@
 # P8P 7: ReLiveWP - Reborn
 
+### Warning
+This project is now discontinued, so is the Discord server.
+P8P, The Nova Team and whatever else is discontinued.
+
 A ReLiveWP fork that is actually useful for your Lumia/WP 7 device.
 
 This is a fork of WamWooWam's original project: **"ReLiveWP"**, created to relive WP7/WP8's original Live ID / Microsoft services.  
